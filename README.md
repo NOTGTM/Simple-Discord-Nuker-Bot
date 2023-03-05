@@ -4,16 +4,16 @@ A Discord bot written in Python that can nuke a server by deleting all channels,
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/simple-discord-server-nuker.git`
+1. Clone the repository: `git clone https://github.com/NOTGTM/simple-discord-server-nuker.git`
 2. Install the required packages: `pip install -r requirements.txt`
 3. Create a Discord bot and get the token.
-4. Replace `DISCORD_BOT_TOKEN` with your bot token in `config.py`.
-5. Run the bot: `python bot.py`
+4. Replace `YOUR_TOKEN_HERE` with your bot token in `39 line`.
+5. Run the bot: `main.py`
 
 ## Usage
 
 1. Invite the bot to the server you want to nuke.
-2. Type `!nuke` in any text channel.
+2. Type `.n` in any text channel.
 
 ## Disclaimer
 
